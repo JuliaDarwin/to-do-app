@@ -1,0 +1,43 @@
+
+h1{
+    font-family:fantasy, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: 900;
+}
+
+li{
+    
+    padding: 5px;
+    font-size: large;
+    font-family: fantasy;
+    list-style-position: inside;
+}
+
+h2{
+    font-family: fantasy;
+    font-weight: 200;
+}
+button {
+    padding: 5px;
+    margin: 5px;
+    margin-left: 5px;
+    font-family: fantasy;
+    border-radius: 10%;
+    box-shadow: 20%;
+}
+#up{
+    background-color: red;
+    color:white
+
+}
+
+#down{
+    background-color: green;
+    color: white;
+}
+
+#body {
+    padding: 20px;
+    text-align: center;
+    background-color: rosybrown;
+}
