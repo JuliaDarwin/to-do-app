@@ -32,6 +32,7 @@ function Todo(){
     return(
         <div id="body">
             <h1>My To-Do App</h1>
+            <p>Prova per veure comits amb branch 2</p>
             <ol>
                 {tasks.map((task, index) => {
                     return (
