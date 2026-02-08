@@ -44,7 +44,6 @@ function Todo(){
                 })}
             </ol>
             <h2>Add Another Task</h2>
-            <p>Prova mierdagit</p>
             <input type="text" id="task"/>
             <button onClick={handleAddTask} id="add">Add Task</button>
 
